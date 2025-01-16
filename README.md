@@ -1,4 +1,5 @@
 # top-trumps
+
 A small project in C++ simulating two people playing top-trumps in order to solidify basic learnings of OOP and C++ file organisation.
 
 This is a ramp-up project for learning c++. The project runs a game of Top Trumps.
